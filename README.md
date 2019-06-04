@@ -1,2 +1,1 @@
-# velopert-react-redux
-연습용
+## https://velopert.com/3346
